@@ -4,3 +4,11 @@ main: de.rubymc.rubyapi.Main
 api-version: 1.16
 authors: [ Waischbrot ]
 description: RubyMC NetzwerkAPI
+
+commands:
+  rubine:
+    aliases: [coins, rubys]
+  stats:
+    aliases: [statistiken]
+  level:
+    aliases: [progress]
