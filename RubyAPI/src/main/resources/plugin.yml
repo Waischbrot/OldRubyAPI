@@ -1,4 +1,4 @@
-name: Rubyapi
+name: RubyAPI
 version: '${project.version}'
 main: de.rubymc.rubyapi.Main
 api-version: 1.16
